@@ -1,2 +1,4 @@
 console.log("Dolor sit amet");
-console.log('Dolor$4')
+const result = 10 + 20;
+console.log("Calculating");
+console.log(`Result i ${result}`);
